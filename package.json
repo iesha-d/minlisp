@@ -1,0 +1,11 @@
+{
+  "name": "minilisp-portfolio",
+  "version": "1.0.0",
+  "description": "This repo houses Minilisp, a simple Lisp-like language, and a parser, which represents it as a JS object.",
+  "main": "minilisp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
